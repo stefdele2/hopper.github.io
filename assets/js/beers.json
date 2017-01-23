@@ -1,0 +1,120 @@
+[               {
+                "name":"Duvel",
+                "type": "Blond",
+                "percentage": "8.5%",
+                "slagzin": "Genieten is slimmer dan overdrijven. Een bier met liefde gebrouwen, drink je met verstand ",
+                "info": "Duvel is een Belgisch blond speciaalbier van Brouwerij Duvel Moortgat uit Breendonk. Het heeft een hoge gisting en wordt nog eens hergist op fles.",
+                "meerinfo": "Duvel wordt gedronken uit een tulpvormig glas, waar onderin een gravering van een D in het glas gekrast is om ervoor te zorgen dat het bier parelt (voorheen was er enkel een kras onderaan in plaats van een gravering). De naam van Victory Ale veranderde omstreeks 1926 in Duvel. Naar verluidt was deze naam afkomstig van een proeverij, waarbij een van de deelnemers, doelend op de sterkte van het bier, spontaan uitroep dat het een echte duvel was. Door deze naamsverandering werd Duvel de goddeloze tegenhanger van de abdijbieren, die in dezelfde periode opkwamen.",
+                "smaak": "Een delicate pareling en een aangename alcoholzoete smaak.",
+                "pic":"http://i.imgur.com/HpZXpcQ.jpg",
+                "site":"http://www.duvel.com/"
+
+                },
+
+                {
+                "name":"Palm",
+                "type": "Amber",
+                "percentage": "5.4%",
+                "slagzin": "Doet beestig deugd Ook speciaal als je niets te vieren hebt ",
+                "info": "Palm is een Belgisch bier. Het bier wordt gebrouwen door Brouwerij Palm te Steenhuffel. Brouwerij Palm heeft reeds een eeuwenoude geschiedenis, maar de naam “Palm” dateert van 1929. ",
+                "meerinfo":"Aanvankelijk heette het bier Speciale Palm, verwijzend naar enerzijds de biersoort Spéciale belge en anderzijds naar de palm die op het logo stond als teken van overwinning van het hoge gistingsbier (Palm is hoge gisting) op de pils van lage gisting. In de jaren 2000 werden de bieren geherprofileerd. Zowel de namen veranderden (“Speciale” verdween bijvoorbeeld) als het logo: de palm verdween. Op het logo blijft het Brabantse trekpaard wel behouden. Eind januari 2012 werden de etiketten terug aangepast. Het trekpaard blijft aanwezig, maar enkel als niet-ingekleurde tekening. Het bruin met de witte manen verdween. Tevens is de tekst (Speciale Belge Ale) op het etiket geplaatst.",
+                "smaak":"Lichte karamelsmaken met een honingachtige malsheid.",
+                "pic":"http://i.imgur.com/iaVNQqP.jpg",
+                "site":"http://www.palm.be/nl/"
+                },
+
+                {
+                "name":"Stella Artois",
+                "type": "Pils",
+                "percentage": "5.2%",
+                "slagzin": "M'n thuis is waar m'n Stella staat, Wereldwijd benijd ",
+                "info": "Stella Artois is een Belgische pils, gebrouwen in Leuven, en valt onder het concern AB InBev. Het bier ontstond in 1926, toen het als 'kerstbier' onder de naam Stella (Latijn voor Ster) op de markt werd gebracht.",
+                "meerinfo":"Het recept is sindsdien geregeld gewijzigd waardoor het bier met name in de laatste jaren aanzienlijk minder bitter is geworden. De geschiedenis van de brouwerij gaat echter terug tot in 1366, het jaartal dat ook op het logo staat. Uit de belastingregisters van de stad Leuven van dat jaar blijkt dat de herberg-brouwerij Den Hoorn, de oorspronkelijke brouwerij, toen al bestond. Op 13 juni 1708 verwierf Sebastian Artois de felbegeerde titel van Meester-Brouwer. Sindsdien is de naam Artois verbonden aan de brouwerij.",
+                "smaak":"Een zacht zoet gemoute smaak en een heel weinig bittere nasmaak",
+                "pic":"http://i.imgur.com/B2LmKlj.jpg",
+                "site":"http://www.stellaartois.com/nl_be/home.html"
+                },
+
+                {
+                "name":"Jupiler",
+                "type": "Pils",
+                "percentage": "5.2%",
+                "slagzin": "Mannen weten waarom, Supporters weten waarom ",
+                "info": "Jupiler is een Belgisch pilsbier met een marktaandeel van zo'n 45% in het eigen land. Het bier wordt gebrouwen door brouwerij Piedbœuf in het plaatsje Jupille-sur-Meuse, een deelgemeente van Luik.",
+                "meerinfo":"De naam Jupiler is in 1966 gevormd met het achtervoegsel -er bij de plaatsnaam (zoals in het Duits en soms in het Nederlands een adjectief voor plaatsnamen gevormd wordt, zoals in Aachener of Maastrichter). Het embleem van Jupiler is altijd al een stier geweest. In 2006 werden zowel de glazen, als de flesjes van Jupiler vernieuwd. Het uiterlijk van het embleem en de lay-out werd lichtjes veranderd (de stier staat nu op zijn 4 poten in plaats van enkel op zijn achterste poten) en de tekst Jupiler staat nu verticaal op het glas. De slogan van Jupiler is Mannen weten waarom.",
+                "smaak":"Een bitterzachte pils en heeft een fris karakter, vlotte verteerbaarheid en een toegankelijke rijke moutsmaak.",
+                "pic":"http://i.imgur.com/lF5B0q1.jpg",
+                "site":"https://jupiler.be/nl/agecheck"
+                },
+
+                {
+                "name":"Gentse Strop",
+                "type": "Blond",
+                "percentage": "6.9%",
+                "slagzin": "Fier Gents Bier ",
+                "info": "Gentse Strop is een Belgisch bier. Het bier wordt gebrouwen door Brouwerij Roman te Oudenaarde. De naam “Gentse Strop” verwijst naar de bijnaam van de Gentenaars: stroppendragers. ",
+                "meerinfo":"Deze bijnaam komt van de vernedering van de Gentenaars door keizer Karel V die hen met een strop door de stad liet gaan omdat ze in opstand kwamen tegen een door hem opgelegde belasting. Het bier is het laatste meesterwerk van brouwmeester Jef Snauwaert, die er na 40 jaar dienst bij Brouwerij Roman en 2 jaar voorbereiding zijn carrière mee afsluit.",
+                "smaak":"Fijn fruitig aroma en een subtiele hoppigheid.",
+                "pic":"http://i.imgur.com/2glVcTi.jpg",
+                "site":"http://www.gentsestrop.be/"
+                },
+
+                {
+                "name":"La Chouffe",
+                "type": "Blond",
+                "percentage": "8%",
+                "slagzin": "Welkom in de vallei der feeën. ",
+                "info": "La Chouffe is een Belgisch blond bier dat voor het eerst in 1982 door de zwagers Pierre Gobron en Chris Bauweraerts werd gebrouwen. Het begon als een hobby, die geleidelijk uitgroeide tot de brouwerij/stokerij en taverne Brasserie d'Achouffe.",
+                "meerinfo":"Sedert 2006 is deze volledig in handen van de brouwerij Duvel Moortgat uit Breendonk. La Chouffe was behalve op vat lange tijd alleen in grote flessen van 75 centiliter en 1,5 liter verkrijgbaar, maar sinds mei 2009 wordt het bier ook in flesjes van 33 centiliter gebotteld. De brouwer beveelt aan La Chouffe bij een temperatuur van 4 tot 10°C te drinken.",
+                "smaak":"Fruitig, gekruid met koriander en een lichte hopsmaak.",
+                "pic":"http://i.imgur.com/Ri9aptY.jpg",
+                "site":"http://www.achouffe.be/nl"
+                },
+
+                {
+                "name":"Chimay",
+                "type": "Bruin",
+                "percentage": "7%",
+                "slagzin": "Enter into the light ",
+                "info": "Chimay is een trappistenbier dat in de Abdij Notre-Dame de Scourmont te Chimay in Henegouwen wordt gebrouwen. Jaarlijks wordt zo'n 170.000 hectoliter bier gebrouwen. ",
+                "meerinfo":"Het eerste Chimaybier werd in 1862 gebrouwen. Het was aanvankelijk een Doppelbock in Beierse stijl, dus van lage gisting. Na enkele brouwsels verkozen de monniken echter een bière forte, een donker bier van hoge gisting, naar het model van het bier van de moederabdij van Westvleteren. Het bier werd toen uitsluitend gebotteld in flessen van 75 centiliter.",
+                "smaak":"Het bier heeft een zachte, fruitige smaak.",
+                "pic":"http://i.imgur.com/O2Pv3fz.jpg",
+                "site":"http://chimay.com/nl/"
+                },
+                {
+                "name":"Orval",
+                "type": "Amber",
+                "percentage": "6,2%",
+                "slagzin": "Saveurs d’Orval ",
+                "info": "Orval is een trappistenbier dat in de abdij Notre-Dame d'Orval in de Belgische provincie Luxemburg wordt gebrouwen. ",
+                "meerinfo":"Het bier is een buitenbeentje binnen de familie van de trappistenbieren, en van de Belgische bieren in het algemeen: er is slechts één variant algemeen verkrijgbaar, en deze is een relatief licht bier dat herinnert aan een Engelse ale. (Brettanomyces-)karakteristieken en hints van melkzuur en citroenzeste. Wanneer het bier een jaar oud is, heeft het een droge bitterheid. Het bier kan hierna nog lang gehouden worden, maar zal aan hoppige frisheid verliezen. Het wordt aanbevolen het bezinksel met de gist apart te serveren. Op een leeftijd van vier tot vijf maanden krijgt het een enorme schuimkraag. De fruitigheid ruimt plaats voor een zurigheid; bijna alle restsuikers zijn verdwenen. Vanaf zes maanden krijgt het door het samenspel van de gisten wilde.",
+                "smaak":"Jonge Orval, net uit de brouwerij, heeft een hoppig en verfrissend aroma en smaak, naast fruitige toetsen.",
+                "pic":"http://i.imgur.com/z562bwy.jpg",
+                "site":"http://www.orval.be/nl/home/Abdij"
+                },
+
+                {
+                "name":"Gulden Draak",
+                "type": "Donker Bier",
+                "percentage": "10.5%",
+                "slagzin": "Eine Perle der Natur. ",
+                "info": "Gulden Draak is een donker Belgisch bier van hoge gisting gebrouwen door Brouwerij Van Steenberge te Ertvelde. In 1998 bekroonde het American Tasting Institute Gulden Draak tot beste bier ter wereld. ",
+                "meerinfo":"Gulden draak heeft een sterke geur van alcohol, die een precieze definitie van het aroma bemoeilijkt. Toch dringt een krachtige neus van gerst en rijpe pruimen en/of kersen zich op. Verschillende proevers wereldwijd refereren aan een zoet koffiearoma. Het betreft hier echter duidelijk een milde koffie zoals die bijvoorbeeld in Groot-Brittannië wordt gezet. Gulden Draak wordt geleverd in glazen flesjes van 33 cl, 75 cl en 1,5 liter, en in vaten van 30 l.",
+                "smaak":"Een complexe smaak met toetsen van caramel, gebrande mout en koffie",
+                "pic":"http://i.imgur.com/KkNGKq5.jpg",
+                "site":"http://www.vansteenberge.com/nl/onze-bieren/gulden-draak/"
+                },
+
+                {
+                "name":"Keizer Karel",
+                "type": "Roodbruin",
+                "percentage": "8.5%",
+                "slagzin": "Voor levensgenieters met levenservaring. ",
+                "info": "Keizer Karel is een Belgisch bier van hoge gisting. Het bier wordt gebrouwen door Brouwerij Haacht te Boortmeerbeek. Het werd voor het eerst gebrouwen in de jaren 1950 ter gelegenheid van een feest voor keizer Karel V te Beaumont. ",
+                "meerinfo":"In de jaren 1970 werd het vast opgenomen in het assortiment van brouwerij Haacht. Het bier is opgedragen aan keizer Karel, naar verluidt een bierliefhebber. Het bier wordt gedronken in een kelkglas, maar de brouwerij liet ook een speciale pot met drie oren maken ter herinnering aan de legende van Keizer Karel en de Pot van Olen. Een pot met vier oren is beschikbaar voor het Waalse landsgedeelte, volgens dezelfde legende die zich afspeelt in Walcourt.",
+                "smaak":"Eerder fruitig en zoet aroma, met een zachte, volle smaak.",
+                "pic":"http://i.imgur.com/wfsM2Ab.jpg",
+                "site":"http://www.charlesquint.be/nl-be"
+                }
+]
